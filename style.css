@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   body{
@@ -19,9 +20,10 @@
     width: 490px;
   }
   
-  h1{
+  h2{
+    text-align: center;
     color: #364547;
-    margin-left: 72px;
+    margin-left: 10px;
     margin-bottom: 0.5em;
     font-family: sans-serif;
   }
